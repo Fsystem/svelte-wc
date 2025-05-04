@@ -1,0 +1,14 @@
+{
+  "name": "@wcd/fsystem.svelte-ma9ygrvh",
+  "version": "0.0.0",
+  "description": "",
+  "license": "ISC",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve ZnFMTbTQs1HXBOlXcp7J --open"
+  },
+  "dependencies": {
+    "lit-html": "^1"
+  }
+}
